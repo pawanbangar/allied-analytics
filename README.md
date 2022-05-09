@@ -4,6 +4,13 @@
 
 Using This Project You can send push notification to everyone using this website.
 
+## ScreeenShots
+![Database](https://github.com/pawanbangar/allied-analytics/blob/main/ScreenShots/Screenshot%20(103).png?raw=true)
+![Screen](https://github.com/pawanbangar/allied-analytics/blob/main/ScreenShots/Screenshot%20(104).png?raw=true)
+![Notification write](https://github.com/pawanbangar/allied-analytics/blob/main/ScreenShots/Screenshot%20(105).png?raw=true)
+![Notification](https://github.com/pawanbangar/allied-analytics/blob/main/ScreenShots/Screenshot%20(106).png?raw=true)
+![Firebase](https://github.com/pawanbangar/allied-analytics/blob/main/ScreenShots/Screenshot%20(107).png?raw=true)
+
 ## Requirements(latest xampp include everything)
 - Mysql.
 - php 7.4.+.
